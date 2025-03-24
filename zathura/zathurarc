@@ -1,0 +1,17 @@
+set adjust-open "best-fit"
+
+set default-bg "rgba(0,0,0,0)"
+set recolor-lightcolor "rgba(0,0,0,0)"
+
+
+set page-padding 3
+set page-cache-size 30
+set pages-per-row 1
+set first-page-column 1
+
+
+set first-page-column 1:1
+
+set window-title-basename true
+set selection-clipboard clipboard
+
